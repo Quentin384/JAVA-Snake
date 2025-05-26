@@ -1,6 +1,6 @@
 # 🎯 Jeu Snake – Projet Java Swing
 
-![Java](https://img.shields.io/badge/Java-24-blue.svg)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)  
 ![Swing](https://img.shields.io/badge/Swing-GUI-yellow)
 ![Status](https://img.shields.io/badge/statut-fini-success)
 
