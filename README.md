@@ -60,10 +60,10 @@ java Snake
 
 Voici quelques captures du jeu en fonctionnement :
 
-![Capture écran Snake](./Docu/Capture/snake-game-screenshot1.png)  
+![Capture écran Snake](./Docu/snake-game-screenshot1.png)  
 *Vue principale du jeu avec serpent et pomme*
 
-![Écran Game Over](./Docu/Capture/snake-game-over.png)  
+![Écran Game Over](./Docu/snake-game-over.png)  
 *Écran affiché lors de la fin de partie (Game Over)*
 
 
