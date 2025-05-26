@@ -1,8 +1,6 @@
 # 🎯 Jeu Snake – Projet Java Swing
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)  
-![Swing](https://img.shields.io/badge/Swing-GUI-yellow)
-![Status](https://img.shields.io/badge/statut-fini-success)
 
 Bienvenue dans ce projet de développement d’un jeu **Snake** en Java avec **Swing**, réalisé dans le cadre de ma formation en développement fullstack Java.  
 Ce projet met en pratique la gestion des événements clavier, les collisions, l’affichage graphique, et la structuration en classes.
@@ -100,4 +98,3 @@ Voici quelques aperçus du jeu en fonctionnement :
 Ce projet est open-source sous licence **MIT**.  
 Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
 
----
