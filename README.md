@@ -73,6 +73,16 @@ Le projet s'appuie uniquement sur l’API standard de Java (`java.awt`, `javax.s
 
 ---
 
+## 📌 Auteur
+
+👨‍💻 **Quentin** – Étudiant développeur Fullstack Java  
+🎓 Projet réalisé dans le cadre de ma formation (Simplon)  
+🎯 Rôle principal : conception et développement complet (moteur de jeu, affichage graphique, gestion des entrées utilisateur)
+
+📆 Projet solo – Mai 2025
+
+---
+
 ## 📸 Captures d’écran
 
 Voici quelques aperçus du jeu en fonctionnement :
@@ -82,16 +92,6 @@ Voici quelques aperçus du jeu en fonctionnement :
 
 ![Écran Game Over](./Docu/Capture/snake-game-over.png)  
 *Écran affiché à la fin de la partie*
-
----
-
-## 📌 Auteur
-
-👨‍💻 **Quentin** – Étudiant développeur Fullstack Java  
-🎓 Projet réalisé dans le cadre de ma formation (Simplon)  
-🎯 Rôle principal : conception et développement complet (moteur de jeu, affichage graphique, gestion des entrées utilisateur)
-
-📆 Projet solo – Mai 2025
 
 ---
 

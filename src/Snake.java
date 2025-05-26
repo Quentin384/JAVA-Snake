@@ -7,3 +7,4 @@ public class Snake {
         new GameFrame();
     }
 }
+
