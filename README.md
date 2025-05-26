@@ -43,7 +43,7 @@ Le serpent grandit à chaque pomme consommée, et le jeu se termine si le serpen
 ```bash
 javac *.java
 java Snake
-
+```
 ---
 
 ## 📌 Auteur
