@@ -33,6 +33,7 @@ public class GameFrame extends JFrame {
         this.setLocationRelativeTo(null);
     }
 }
+```
 
 #### 1.3 Créer un fichier `GamePanel.java`
 
@@ -45,6 +46,7 @@ import java.util.Random;
 public class GamePanel extends JPanel implements ActionListener {
     // À compléter
 }
+```
 
 #### 1.4 Créer les attributs de la classe `GamePanel`
 
@@ -101,3 +103,4 @@ public class MyKeyAdapter extends KeyAdapter {
         }
     }
 }
+```
